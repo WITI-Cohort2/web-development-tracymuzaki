@@ -1,0 +1,55 @@
+/* Reg No: 2022/DCSE/022/SS */
+/* frontside */
+.front{
+    background-color: darkgreen;
+    color: gold;
+    border: 1px solid darkgreen;
+    margin: 100px 1000px 0 100px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    padding: 70px 120px 80px 20px;
+    width: 600px;
+    height: 300px;
+    align-items: center;
+}
+
+.front img{
+    height: 220px;
+    width: 280px;
+    margin-bottom: 110px;
+}
+
+
+.front h1{
+    font-size: 60px;
+    margin-top: 80px;
+}
+
+.front h2{
+    font-size: 45px;
+    margin-bottom: 180px;
+}
+
+/* backside */
+.back{
+    background-color: darkgreen;
+    color: gold;
+    border: 1px solid darkgreen;
+    margin: 100px 1000px 0 100px;
+    padding: 70px 120px 80px 20px;
+    width: 600px;
+    height: 300px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+}
+
+
+.back img{
+    width: 80px;
+    height: 80px;
+}
+
+.row2{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+}

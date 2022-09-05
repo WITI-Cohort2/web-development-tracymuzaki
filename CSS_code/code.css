@@ -1,0 +1,42 @@
+/* CSS code defining five paragraph classes with different property values */
+
+/* Paragraph one */
+.first{
+    background-color: royalblue;
+    margin: 10px;
+    padding: 50px;
+    border-style: dashed;
+}
+
+/* Paragraph two */
+.second{
+    background-color: aquamarine;
+    margin: 40px;
+    padding: 40px;
+    border-style: dotted;
+}
+
+/* Paragraph three */
+.third{
+    background-color: lightgreen;
+    margin: 70px;
+    padding: 30px;
+    border-style: double;
+}
+
+/* Paragraph four */
+.fourth{
+    background-color: olive;
+    margin: 100px;
+    padding: 20px;
+    border-style: solid;
+}
+
+/* Paragraph five */
+.fifth{
+    background-color: blue;
+    margin: 130px;
+    padding: 10px;
+    border-style: none;
+}
+
